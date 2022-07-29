@@ -1,4 +1,5 @@
 // 分类 ++
+// 分类 ++
 {
   "name": "影视工厂",
   "url": "http://www.ysgc.cc",
@@ -13,13 +14,18 @@
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "class=\"myui-vodlist__box\"",
-  "jiequshuzuhou": "</span>",
+  "jiequshuzuhou": "</a>",
   "tupianqian": "original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "text-right\">",
+  "fubiaotihou": "</span",
+
 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
@@ -52,7 +58,7 @@
   "daoyanhou": "</p>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</p>",
-  "juqingqian": "<span class=\"data\"",
+  "juqingqian": "a\" style=\"display: none;\">",
   "juqinghou": "</span>",
 
   "bfyshifouercijiequ": "0",
