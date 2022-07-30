@@ -479,7 +479,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;5d3ae0f55dfd25760b10a868d2b4ee9c"
+	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;6c9d469988e4bb580898e7fd5bc3da2a"
     },
     {
       "key": "csp_Bliyc",
@@ -489,7 +489,27 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;5d3ae0f55dfd25760b10a868d2b4ee9c"
+	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;6c9d469988e4bb580898e7fd5bc3da2a"
+    },
+    {
+      "key": "csp_Blijc_Excel",
+      "name": "Excel(SP)",
+      "type": 3,
+      "api": "csp_Blijc",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;6c9d469988e4bb580898e7fd5bc3da2a"
+    },
+    {
+      "key": "csp_Blikt_课堂",
+      "name": "课堂(SP)",
+      "type": 3,
+      "api": "csp_Blikt",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;6c9d469988e4bb580898e7fd5bc3da2a"
     },
         {
             "key":"天堂资源",
