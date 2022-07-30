@@ -479,7 +479,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;5d3ae0f55dfd25760b10a868d2b4ee9c"
+	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;5d3ae0f55dfd25760b10a868d2b4ee9c"
     },
     {
       "key": "csp_Bliyc",
@@ -489,7 +489,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-	  "spider": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;5d3ae0f55dfd25760b10a868d2b4ee9c"
+	  "jar": "https://gitea.com/lucky/P/raw/branch/master/jar/6.txt;md5;5d3ae0f55dfd25760b10a868d2b4ee9c"
     },
         {
             "key":"天堂资源",
