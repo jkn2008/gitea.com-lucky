@@ -22,7 +22,7 @@
             "api":"csp_Blims",
             "searchable":1,
             "quickSearch":0,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar",
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy1.jar",
             "filterable":1
         },
         {
@@ -569,7 +569,7 @@
             "api":"csp_Blixq",
             "searchable":1,
             "quickSearch":1,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar",
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy1.jar",
             "filterable":1
         },
         {
@@ -579,7 +579,7 @@
             "api":"csp_Bliyc",
             "searchable":1,
             "quickSearch":0,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar",
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy1.jar",
             "filterable":1
         },
         {
@@ -589,7 +589,7 @@
             "api":"csp_Blixs",
             "searchable":1,
             "quickSearch":0,
-            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy.jar",
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/Blizy1.jar",
             "filterable":1
         },
         {
